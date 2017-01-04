@@ -19,7 +19,7 @@ title: Windows에 Jekyll 설치하기
 > http://rubyinstaller.org/downloads/
 
 #### 2.2 아래 옵션을 선택하면 어느 경로에서든지 루비를 실행할 수 있다
-![ruby-install-step]({{ site.baseurl}}/static/img/content/ruby-install-step.PNG)
+![ruby-install-step]({{ site.baseurl }}/static/img/content/ruby-install-step.PNG)
 
 설치된 루비 버전확인
 {% highlight lua %}
@@ -85,7 +85,7 @@ jekyll serve
 {% endhighlight %}
 
 #### 6.3 127.0.0.1:4000 에 접속 확인
-![jekyll-serve-run](../assets/jekyll-serve-run.PNG)
+![jekyll-serve-run]({{ site.baseurl }}/static/img/content/jekyll-serve-run.PNG)
 
 <br>
 

@@ -46,7 +46,7 @@ title: HTML5와 시맨틱 마크업
 
 #### 2.2 [콘텐츠 모델](https://developer.mozilla.org/ja/docs/Web/HTML/Content_categories#sectioning_content)
 : HTML5의 요소들은 특성에 따라 아래와 같이 분류된다. 한 요소는 여러 분류에 속할 수 있고, 어느 곳에도 속하지 않을 수도 있다.  
-![HTML5 Contents Model]({{ site.baseurl}}/static/img/content/HTML5_Content_categories.png)
+![HTML5 Contents Model]({{ site.baseurl }}/static/img/content/HTML5_Content_categories.png)
 
 ##### 1) Metadata Contents (메타데이터 콘텐츠)
 콘텐츠의 모양, 동작을 설정하거나 다른 문서에 대한 링크 설정 및 기타 통신 이외의 정보를 전한다.
