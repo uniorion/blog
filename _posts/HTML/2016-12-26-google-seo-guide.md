@@ -1,8 +1,9 @@
-###### Front-End study
-
 ---
-
-## Google의 검색 엔진 최적화 가이드
+layout: post
+comments: true
+categories: HTML
+title: Google 검색 엔진 최적화 가이드
+---
 
 #### 1. SEO의 기초
 

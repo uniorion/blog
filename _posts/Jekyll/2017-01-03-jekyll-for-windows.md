@@ -1,3 +1,9 @@
+---
+layout: post
+comments: true
+categories: Jekyll
+title: Windows에 Jekyll 설치하기
+---
 
 ### 1. 필요한 요소
 * Ruby - Jekyll은 루비 기반
@@ -13,35 +19,35 @@
 > http://rubyinstaller.org/downloads/
 
 #### 2.2 아래 옵션을 선택하면 어느 경로에서든지 루비를 실행할 수 있다
-![ruby-install-step](../assets/ruby-install-step.PNG)
+![ruby-install-step]({{ site.baseurl}}/static/img/content/ruby-install-step.PNG)
 
 설치된 루비 버전확인
-```sh
+{% highlight lua %}
 ruby -v
-```
+{% endhighlight %}
 
 #### 2.3 Development Kit 설치
 같은 사이트에서 dev kit을 다운받아 압축해제, 초기화 및 루비와 binding 해준다
-```sh
+{% highlight lua %}
 cd C:\RubyDevKit
 
 ruby dk.rb init
 
 ruby dk.rb install
-```
+{% endhighlight %}
 
 <br>
 
 ### 3. 지킬(Jekyll) 설치하기
 루비의 gem 패키지 인스톨러를 사용하여 지킬 설치
-```sh
+{% highlight lua %}
 gem install jekyll
-```
+{% endhighlight %}
 
 code blocks 사용을 위해 rouge를 설치
-```sh
+{% highlight lua %}
 gem install rouge
-```
+{% endhighlight %}
 
 <br>
 
@@ -59,9 +65,9 @@ gem install rouge
 
 ### 5. Pygments 설치
 syntax highlighting 을 사용하기 위해서 Pygments를 설치 (관리자권한)
-```sh
+{% highlight lua %}
 pip install Pygments
-```
+{% endhighlight %}
 윈도우 계정이 한글일 경우 오류가 발생할 수 있음
 
 <br>
@@ -69,14 +75,14 @@ pip install Pygments
 ### 6. 지킬(Jekyll) 실행하기
 
 #### 6.1 wdm 설치
-```sh
+{% highlight lua %}
 gem install wdm
-```
+{% endhighlight %}
 
 #### 6.2 작업 폴더에서 지킬 실행
-```sh
+{% highlight lua %}
 jekyll serve
-```
+{% endhighlight %}
 
 #### 6.3 127.0.0.1:4000 에 접속 확인
 ![jekyll-serve-run](../assets/jekyll-serve-run.PNG)
@@ -84,9 +90,9 @@ jekyll serve
 <br>
 
 ### 7. 지킬(Jekyll) 사이트 생성하기
-```sh
+{% highlight lua %}
 jekyll new ./blog
-```
+{% endhighlight %}
 
 
 <br>

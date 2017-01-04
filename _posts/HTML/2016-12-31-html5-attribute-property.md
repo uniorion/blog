@@ -1,8 +1,9 @@
-###### Front-End study
-
 ---
-
-## HTML5 주요 요소와 속성
+layout: post
+comments: true
+categories: HTML
+title: HTML5 주요 요소와 속성
+---
 
 ### [article](https://developer.mozilla.org/ko/docs/Web/HTML/Element/article)
 * 문서, 페이지, 애플리케이션 사이트 안에 독립적으로 구분되거나 신디케이션과 같은 재사용이 가능한 영역
@@ -38,12 +39,12 @@
 * 본문에서 참조하는 이미지, 도표, 코드나 스키마가 해당되며, 메인 플로우에 영향이 없는 다른 페이지나
 부록으로 옮기는 것도 가능하다
 * `<figcaption>` 을 내부에 추가하여 캡션을 연결할 수 있다. (첫번째 또는 마지막 자식으로서)
-```html
+{% highlight lua %}
 <figure>
   <img src="https://developer.cdn.mozilla.net/media/img/mdn-logo-sm.png" alt="An awesome picture">	
   <figcaption>Fig1. MDN 로고</figcaption>
 </figure>
-```
+{% endhighlight %}
 
 <br>
 

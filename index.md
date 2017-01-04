@@ -2,7 +2,8 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+###### Since 2017
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+## Welcome to my blog
+
+Fast campus 의 프론트엔드 스쿨 강의 내용을 정리하고, 프론트엔드 기술과 관련된 학습 자료를 정리하는 목적으로 제작됨.
