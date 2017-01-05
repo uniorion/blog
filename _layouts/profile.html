@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<div class="row">
+  <div id="myArticle" class="col-sm-9">
+    <div class="post-area post">
+      <div class="simple-profile">
+        <div class="photo-area">
+          <img src="{{ site.baseurl }}/static/img/content/profile.jpg" width="200" alt="">
+        </div>
+        <div class="info-area">
+          <h2 class="name">이진기(Jinki Lee) <span>1981.7.6(+)</span></h2>
+          <p class="myjop">Front End Developer.Junior</p>
+          <ul class="contact">
+            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <li><a href="https://github.com/{{ site.github_username }}">https://github.com/{{ site.github_username }}</a></li>
+            <li><a href="https://www.linkedin.com/in/uniorion">https://www.linkedin.com/in/uniorion</a></li>
+          </ul>
+        </div>
+      </div>
+      <article>
+        {{content}}
+      </article>
+    </div>
+  </div>
+  <div id="content" class="col-sm-3">
+    <div id="myAffix" class="shadow-bottom-center hidden-xs" >
+      <div class="categories-list-header">
+        Content
+      </div>
+      <div class="content-text"></div>
+    </div>
+  </div>
+</div>
