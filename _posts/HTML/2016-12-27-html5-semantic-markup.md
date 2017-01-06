@@ -229,6 +229,7 @@ blockquote 가 포함하고 있는 내부 내용의 아웃라인이 외부의 �
 <br>
 
 참고사이트)  
+
 - [[MDN] HTML5 문서의 섹션과 아웃라인](https://developer.mozilla.org/ko/docs/Web/HTML/HTML5_%EB%AC%B8%EC%84%9C%EC%9D%98_%EC%84%B9%EC%85%98%EA%B3%BC_%EC%9C%A4%EA%B3%BD)
 - [[2014널리세미나] 시맨틱한 HTML5 마크업 구조 설계, 어떻게 할까?](http://www.slideshare.net/NULINTS/2014-html5)
 - [HTML5 markup - 신현석](https://hyeonseok.com/docs/html/html5-markup.php)

@@ -97,6 +97,7 @@ jekyll new ./blog
 
 <br>
 
-참고사이트) 
+참고사이트)  
+
 - [Jekyllrb-ko](http://jekyllrb-ko.github.io/)
 - [WhaTap Tech Blog - Jekyll 윈도우에 설치해서 사용하기](http://tech.whatap.io/2015/09/11/install-jekyll-on-windows/)

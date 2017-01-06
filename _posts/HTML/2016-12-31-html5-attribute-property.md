@@ -79,6 +79,7 @@ title: HTML5 주요 요소와 속성
 
 <br>
 
-참고사이트)   
+참고사이트)  
+
 - [[MDN] HTML 요소 레퍼런스](https://developer.mozilla.org/ko/docs/Web/HTML/Element)
 - [HTML5 markup - 신현석](https://hyeonseok.com/docs/html/html5-markup.php)
