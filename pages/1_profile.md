@@ -34,6 +34,7 @@ Tools - VS Code, Sublime Text, Editplus, Chrome, Photoshop, Github, Source Tree
 ---
 
 ## 교육
+
 #### 1. Fast campus (패스트캠퍼스)
   * 과정 : 프론트엔드 개발 스쿨 2기
   * 기간 : 2016.9 – 2016.12
@@ -56,6 +57,7 @@ Tools - VS Code, Sublime Text, Editplus, Chrome, Photoshop, Github, Source Tree
 ---
 
 ## 경력
+
 #### 1. 뮤즈플렉스
 * 2013.6.4 - 2016.5.31
 * 플랫폼사업팀 대리
