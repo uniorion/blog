@@ -89,7 +89,7 @@ title: Google 검색 엔진 최적화 가이드
 
 <br>
 
-참고사이트)
+참고사이트)  
 - [Goolge 검색 엔진 최적화 기본 가이드](https://static.googleusercontent.com/media/www.google.co.kr/ko/kr/intl/ko/webmasters/docs/search-engine-optimization-starter-guide-ko.pdf)
 - [웹페이지(Webpage, 이벤트 페이지, 랜딩 페이지) 검색엔진최적화(SEO, Search Engine Optimization) 하기](https://brunch.co.kr/@dreamjkdj/10)
 - [구글이 말하는 SEO, 검색엔진최적화 방법 6가지](http://jjambong.com/658)

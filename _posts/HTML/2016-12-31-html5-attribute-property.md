@@ -11,7 +11,7 @@ title: HTML5 주요 요소와 속성
 * `<article>` 요소가 중첩될 경우 안쪽의 요소는 밖의 `<article>` 내용과 관련이 있는 내용이라는 것을 의미
 * 각 article 은 구별되어야 하며, 일반적으로 헤딩요소를 자식으로 가진다
 
-허용된 부모 요소
+허용된 부모 요소  
 > 플로우 콘텐츠를 허용하는 모든 요소  
 > `<article>` 요소는 `<address>`의 자식이 될수 없다
 
@@ -79,6 +79,6 @@ title: HTML5 주요 요소와 속성
 
 <br>
 
-참고사이트)
+참고사이트)   
 - [[MDN] HTML 요소 레퍼런스](https://developer.mozilla.org/ko/docs/Web/HTML/Element)
 - [HTML5 markup - 신현석](https://hyeonseok.com/docs/html/html5-markup.php)
