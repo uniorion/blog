@@ -12,7 +12,7 @@ permalink: /profile/
 
 &nbsp;5년가량 Classic ASP와 MS-SQL을 이용한 백엔드 개발을 하였습니다. 여느 개발자가 그렇듯 야근하며 회사에 헌신적으로 일했고, 
 그리하면 실력은 따라오리라 생각했는데 그건 단지 그 회사 일을 배운 것뿐이었음을 깨달았습니다. 더 늦기 전에 이를 바로 잡아 
-진짜 개발자가 되기로 하고 관심 뒀던 프론트엔드로의 전향을 위해 공부 중입니다.<br><br>
+진짜 개발자가 되기로 하고 평소 관심 뒀던 프론트엔드로의 전향을 위해 공부 중입니다.<br><br>
 &nbsp;전향하는 이유는 그동안 프론트쪽 업무를 간간이 맛보며 모바일 애플리케이션에 버금가는 수려함과 JavaScript로 UI를 제어하고 
 애니메이션을 구현하는, 비주얼을 다루는 일이 더욱 제 흥미를 자극했기 때문입니다.  
 &nbsp;현재는 패스트캠퍼스에서 3개월간 프론트엔드 과정을 수료(2016.12)하여 배운 내용을 정리하고 미흡했던 부분을 보충하며 
@@ -61,7 +61,7 @@ Tools - VS Code, Sublime Text, Editplus, Chrome, Photoshop, Github, Source Tree
 #### 1. 뮤즈플렉스
 * 2013.6.4 - 2016.5.31
 * 플랫폼사업팀 대리
-* Classic ASP, MSSQL, JavaScript, Ajax, Windows Server, C#, Adobe Flash Builder
+* Classic ASP, MSSQL, JavaScript, Ajax, Windows Server, C#, Adobe Flash Builder, Wireshark
 * [현대카드MUSIC] 구축 직후 입사하여 주 업무는 서비스 안정화와 신규 이벤트 개발. 기존 프리마켓 사이트 개편. 내부 관리자 사이트
 유지보수.
 

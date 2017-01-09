@@ -511,4 +511,7 @@ blockquote:last-child {
 	.post article ul{
 		padding-left: 25px;
 	}
+	.post article ul:first-child {
+		padding-top: 20px;
+	}
 }

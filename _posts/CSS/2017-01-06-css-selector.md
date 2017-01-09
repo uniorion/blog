@@ -1,9 +1,9 @@
-###### Front-End study
-
 ---
-
-## CSS 선택자
-
+layout: post
+comments: true
+categories: CSS
+title: CSS의 선택자, 가상클래스, 가상요소
+---
 
 #### 가상 클래스와 가상 요소 (Pseudo Class VS Pseudo Element)
 CSS2 에서는 가상 클래스나 가상 요소 모두 앞에 : 썼으나, CSS3 부터는 가상 요소 앞에는 ::  
@@ -19,15 +19,15 @@ CSS2 에서는 가상 클래스나 가상 요소 모두 앞에 : 썼으나, CSS3
 ```
 
 가상 요소 : 가상으로 `요소` 를 추가
-```css
+
+{% highlight lua %}
 ::before       {}
 ::after        {}
 ::first-line   {}
 ::first-letter {}
 ::selection    {}
-```
+{% endhighlight %}
 
-#### **선택자는 중요하다. 공부를 매일매일!!**
   - a>b : a요소의 자식 요소 중 모든 b
   - a+b : a요소 다음에 오는 형제 요소 중 바로 인접한 하나의 b
   - a~b : a요소 다음에 오는 형제 요소 중 모든 b
@@ -47,3 +47,9 @@ CSS2 에서는 가상 클래스나 가상 요소 모두 앞에 : 썼으나, CSS3
 [data-app|="fds"]   : 하이픈으로 구분된 항목 중 'fds'과 일치하는 값을 가진 요소
 [data-app~="fds"]   : 공백으로 구분된 항목 중 'fds'과 일치하는 값을 가진 요소
 ```
+
+<br>
+
+참고사이트)
+
+- [MDN 선택자](https://developer.mozilla.org/ko/docs/Web/CSS/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/%EC%84%A4%EB%A0%89%ED%84%B0)
