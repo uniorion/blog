@@ -298,7 +298,15 @@ footer .point{
 .simple-profile li a {
 	padding-left: .5em;
 }
-
+/*
+	portfolio
+*/
+.post.portfolio img {
+	margin-left: 2%;
+	margin-bottom: 1.5rem;
+	max-width: 30%;
+	vertical-align: top;
+}
 /**
  * Blockquotes
  */
@@ -475,6 +483,9 @@ blockquote:last-child {
 }
 #content ul{
 	padding-left: 30px;
+}
+#content :not(.content-text) > ul{
+	padding-left: 10px;
 }
 #content ul li{
 	/*list-style: none;*/
